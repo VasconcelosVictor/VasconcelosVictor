@@ -1,7 +1,7 @@
 ### Hi I'm Victor Vasconcelos ✨✨
 # Backend Developer  🐍 :man_technologist:
 
-More than 2 years developing web applications.
+Web developer with experience in developing web systems since 2021 graduated in Information Systems. I am always willing to learn new technologies, face changes and participate in new challenges.
 <br>
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" style="width:20px;height:20px;"> &nbsp;
