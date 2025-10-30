@@ -1,5 +1,5 @@
 ### Hi I'm Victor Vasconcelos ✨✨
-# FullStack Developer  🐍 :man_technologist:
+# FullStack Developer  🐍 :man_technologist: 
 <br>
 <div align="center">
 
@@ -35,16 +35,5 @@
   <a href="https://github.com/VasconcelosVictor/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasconcelosvictor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcelosvictor&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-
-
-
-<div align="center">
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/victor-vasconcelos-barbosa/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="32" height="32" style="margin: 0 10px;">
-</a>
-
 </div>
 
