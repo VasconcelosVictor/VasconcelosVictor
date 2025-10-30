@@ -36,8 +36,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasconcelosvictor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcelosvictor&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  
-Linkedin  :point_right: &nbsp;
-<a href="https://www.linkedin.com/in/victor-vasconcelos-barbosa/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:24px;height:24px;">
+
+
+
+<div align="center">
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/victor-vasconcelos-barbosa/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="32" height="32" style="margin: 0 10px;">
 </a>
+
+</div>
+
