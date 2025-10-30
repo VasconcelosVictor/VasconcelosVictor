@@ -19,7 +19,7 @@ Web developer with experience in developing web systems since 2021 graduated in 
 
 <div align="center">
   <a href="https://github.com/VasconcelosVictor/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasconcelosvictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasconcelosvictor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcelosvictor&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
